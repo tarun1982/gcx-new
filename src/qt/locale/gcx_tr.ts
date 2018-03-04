@@ -62,12 +62,12 @@
         <translation>Alıcı Adres</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödemeleri göndermek için olan GCXX adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
+        <source>These are your GCX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödemeleri göndermek için olan GCX adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödemeleri almak için olan GCXX adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
+        <source>These are your GCX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödemeleri almak için olan GCX adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>cüzdan şifrelemesini onayla</translation>
     </message>
     <message>
-        <source>GCXX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
-        <translation>GCXX şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, GCX'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
+        <source>GCX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
+        <translation>GCX şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, GCX'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -242,8 +242,8 @@
         <translation>&amp;BIP 38 şifrele</translation>
     </message>
     <message>
-        <source>Enter a GCXX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>BIP 38'i kullanarak şifrelemek istediğiniz bir GCXX Adresi girin. Orta kutuya bir parola girin. Şifreli özel anahtarı hesaplamak için şifreleme tuşuna basın.
+        <source>Enter a GCX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>BIP 38'i kullanarak şifrelemek istediğiniz bir GCX Adresi girin. Orta kutuya bir parola girin. Şifreli özel anahtarı hesaplamak için şifreleme tuşuna basın.
 </translation>
     </message>
     <message>
@@ -251,8 +251,8 @@
         <translation>adres</translation>
     </message>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>Ile mesaj imzalamak için GCXX adresi
+        <source>The GCX address to sign the message with</source>
+        <translation>Ile mesaj imzalamak için GCX adresi
 </translation>
     </message>
     <message>
@@ -289,8 +289,8 @@
 </translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Bu GCXX adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Bu GCX adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala
 </translation>
     </message>
     <message>
@@ -316,12 +316,12 @@
         <translation>BIP 38 şifreli özel anahtarını girin. Orta kutuya şifreyi  girin. Özel anahtarı hesaplamak için Anahtarın Çözülmesini tıklayın. Anahtar çözüldükten sonra 'Alma Adresi'ni tıklamak, bu özel anahtarı cüzdana ekleyecektir.</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>Mesajın imzalandığı GCXX adresi</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>Mesajın imzalandığı GCX adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Belirtilen GCXX adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Belirtilen GCX adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -613,12 +613,12 @@
         <translation>Sekme tablosu</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX CORE</translation>
+        <source>GCX Core</source>
+        <translation>GCX CORE</translation>
     </message>
     <message>
-        <source>Send coins to a GCXX address</source>
-        <translation>Koinleri GCXX adresine gönder</translation>
+        <source>Send coins to a GCX address</source>
+        <translation>Koinleri GCX adresine gönder</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and gcx: URIs)</source>
@@ -637,24 +637,24 @@
         <translation>Masternodları ara</translation>
     </message>
     <message>
-        <source>&amp;About GCXX Core</source>
+        <source>&amp;About GCX Core</source>
         <translation>Pıvx core Hakkında</translation>
     </message>
     <message>
-        <source>Show information about GCXX Core</source>
+        <source>Show information about GCX Core</source>
         <translation>Pıvx Core hakkında bilgi göster</translation>
     </message>
     <message>
-        <source>Modify configuration options for GCXX</source>
-        <translation>GCXX için yapılandırma seçeneklerini değiştirin</translation>
+        <source>Modify configuration options for GCX</source>
+        <translation>GCX için yapılandırma seçeneklerini değiştirin</translation>
     </message>
     <message>
-        <source>Sign messages with your GCXX addresses to prove you own them</source>
-        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı GCXX adresleriyle imzalayın</translation>
+        <source>Sign messages with your GCX addresses to prove you own them</source>
+        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı GCX adresleriyle imzalayın</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified GCXX addresses</source>
-        <translation>Belirtilen GCXX adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
+        <source>Verify messages to ensure they were signed with specified GCX addresses</source>
+        <translation>Belirtilen GCX adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -686,8 +686,8 @@
         <translation>Açık Masternode yapılandırma dosyası</translation>
     </message>
     <message>
-        <source>Open a GCXX: URI or payment request</source>
-        <translation>Bir GCXX: URI veya ödeme isteği açın</translation>
+        <source>Open a GCX: URI or payment request</source>
+        <translation>Bir GCX: URI veya ödeme isteği açın</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -698,12 +698,12 @@
         <translation>Kaşif penceresini engelle</translation>
     </message>
     <message>
-        <source>Show the GCXX Core help message to get a list with possible GCXX command-line options</source>
-        <translation>Olası GCXX komut satırı seçeneklerine sahip bir liste almak için GCXX Core yardım mesajını gösterin</translation>
+        <source>Show the GCX Core help message to get a list with possible GCX command-line options</source>
+        <translation>Olası GCX komut satırı seçeneklerine sahip bir liste almak için GCX Core yardım mesajını gösterin</translation>
     </message>
     <message>
-        <source>GCXX Core client</source>
-        <translation>GCXX Core istemci</translation>
+        <source>GCX Core client</source>
+        <translation>GCX Core istemci</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1117,8 +1117,8 @@ Adres: %4</translation>
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX CORE</translation>
+        <source>GCX Core</source>
+        <translation>GCX CORE</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -1140,16 +1140,16 @@ Adres: %4</translation>
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to GCXX Core.</source>
-        <translation>GCXX Core'a hoşgeldiniz.</translation>
+        <source>Welcome to GCX Core.</source>
+        <translation>GCX Core'a hoşgeldiniz.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
         <translation>Varsayılan veri dosyasını kullanınız</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX CORE</translation>
+        <source>GCX Core</source>
+        <translation>GCX CORE</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1515,8 +1515,8 @@ Adres: %4</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>Ile mesaj imzalamak için GCXX adresi
+        <source>The GCX address to sign the message with</source>
+        <translation>Ile mesaj imzalamak için GCX adresi
 </translation>
     </message>
     <message>
@@ -1545,17 +1545,17 @@ Adres: %4</translation>
 </translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Bu GCXX adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Bu GCX adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala
 </translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>Mesajın imzalandığı GCXX adresi</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>Mesajın imzalandığı GCX adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Belirtilen GCXX adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Belirtilen GCX adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1594,8 +1594,8 @@ Adres: %4</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX CORE</translation>
+        <source>GCX Core</source>
+        <translation>GCX CORE</translation>
     </message>
     </context>
 <context>

@@ -1,9 +1,9 @@
-// Copyright (c) 2017 The GCXX developers
+// Copyright (c) 2017 The GCX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef GCXX_CSPORKDB_H
-#define GCXX_CSPORKDB_H
+#ifndef GCX_CSPORKDB_H
+#define GCX_CSPORKDB_H
 
 #include <boost/filesystem/path.hpp>
 #include "leveldbwrapper.h"
@@ -25,4 +25,4 @@ public:
 };
 
 
-#endif //GCXX_CSPORKDB_H
+#endif //GCX_CSPORKDB_H

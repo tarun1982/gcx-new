@@ -474,7 +474,7 @@ void BlockExplorer::showEvent(QShowEvent*)
 
         if (!GetBoolArg("-txindex", false)) {
             QString Warning = tr("Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (gcx.conf).");
-            QMessageBox::warning(this, "GCXX Core Blockchain Explorer", Warning, QMessageBox::Ok);
+            QMessageBox::warning(this, "GCX Core Blockchain Explorer", Warning, QMessageBox::Ok);
         }
     }
 }

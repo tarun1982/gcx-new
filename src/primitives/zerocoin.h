@@ -1,8 +1,8 @@
-// Copyright (c) 2017 The GCXX developers
+// Copyright (c) 2017 The GCX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-#ifndef GCXX_ZEROCOIN_H
-#define GCXX_ZEROCOIN_H
+#ifndef GCX_ZEROCOIN_H
+#define GCX_ZEROCOIN_H
 
 #include <amount.h>
 #include <limits.h>
@@ -189,4 +189,4 @@ public:
     int GetNeededSpends();
 };
 
-#endif //GCXX_ZEROCOIN_H
+#endif //GCX_ZEROCOIN_H

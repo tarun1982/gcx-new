@@ -13,7 +13,7 @@
  * for both gcxd and gcx-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("GCXX Core");
+const std::string CLIENT_NAME("GCX Core");
 
 /**
  * Client version number

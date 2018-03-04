@@ -1,5 +1,5 @@
 [Unit]
-Description=GCXX's distributed currency daemon
+Description=GCX's distributed currency daemon
 After=network.target
 
 [Service]

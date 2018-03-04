@@ -7,7 +7,7 @@
 ///
 /// \copyright  Copyright 2013 Ian Miers, Christina Garman and Matthew Green
 /// \license    This project is released under the MIT license.
-// Copyright (c) 2017 The GCXX developers
+// Copyright (c) 2017 The GCX developers
 
 #ifndef PARAMGENERATION_H_
 #define PARAMGENERATION_H_

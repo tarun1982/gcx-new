@@ -1,7 +1,7 @@
 // Copyright (c) 2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2017 The GCXX developers
+// Copyright (c) 2015-2017 The GCX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -106,15 +106,15 @@ public:
         pchMessageStart[3] = 0xd9;
         vAlertPubKey = ParseHex("0000098d3ba6ba6e1933fa5cbd6a89e0a9a5348f88d332b44a5cb1a8b7ed2c1eaa335fc8dc4f012cb8241cc0bdafd6ca70c5f5448916e4e6f511bcd746ed57dc50");
         nDefaultPort = 2133;
-        bnProofOfWorkLimit = ~uint256(0) >> 20; // GCXX starting difficulty is 1 / 2^12
+        bnProofOfWorkLimit = ~uint256(0) >> 20; // GCX starting difficulty is 1 / 2^12
         nSubsidyHalvingInterval = 210000;
         nMaxReorganizationDepth = 100;
         nEnforceBlockUpgradeMajority = 750;
         nRejectBlockOutdatedMajority = 950;
         nToCheckBlockUpgradeMajority = 1000;
         nMinerThreads = 0;
-        nTargetTimespan = 1 * 60; // GCXX: 1 day
-        nTargetSpacing = 1 * 60;  // GCXX: 1 minute
+        nTargetTimespan = 1 * 60; // GCX: 1 day
+        nTargetSpacing = 1 * 60;  // GCX: 1 minute
         nMaturity = 10;
         nMasternodeCountDrift = 20;
         nMaxMoneyOut = 300000000 * COIN;
@@ -165,7 +165,7 @@ public:
 		vSeeds.push_back(CDNSSeedData("138.201.30.213", "138.201.30.213"));
 		vSeeds.push_back(CDNSSeedData("195.201.63.48", "195.201.63.48"));
 		
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 37); // GCXX address start with G
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 37); // GCX address start with G
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 37);
         base58Prefixes[SECRET_KEY] = std::vector<unsigned char>(1, 179);
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x15)(0x2A)(0xa1)(0x13).convert_to_container<std::vector<unsigned char> >();
@@ -232,8 +232,8 @@ public:
         nRejectBlockOutdatedMajority = 75;
         nToCheckBlockUpgradeMajority = 100;
         nMinerThreads = 0;
-        nTargetTimespan = 1 * 60; // GCXX: 1 day
-        nTargetSpacing = 1 * 60;  // GCXX: 1 minute
+        nTargetTimespan = 1 * 60; // GCX: 1 day
+        nTargetSpacing = 1 * 60;  // GCX: 1 minute
         nLastPOWBlock = 200;
         nMaturity = 15;
         nMasternodeCountDrift = 4;
@@ -313,8 +313,8 @@ public:
         nRejectBlockOutdatedMajority = 950;
         nToCheckBlockUpgradeMajority = 1000;
         nMinerThreads = 1;
-        nTargetTimespan = 24 * 60 * 60; // GCXX: 1 day
-        nTargetSpacing = 1 * 60;        // GCXX: 1 minutes
+        nTargetTimespan = 24 * 60 * 60; // GCX: 1 day
+        nTargetSpacing = 1 * 60;        // GCX: 1 minutes
         bnProofOfWorkLimit = ~uint256(0) >> 1;
         genesis.nTime = 1454124731;
         genesis.nBits = bnProofOfWorkLimit.GetCompact();

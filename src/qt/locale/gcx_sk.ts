@@ -62,12 +62,12 @@
         <translation>Prijímacia adresa</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú vaše GCXX adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
+        <source>These are your GCX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú vaše GCX adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše GCXX adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
+        <source>These are your GCX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše GCX adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>GCXX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
-        <translation>GCXX sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše GCX pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
+        <source>GCX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
+        <translation>GCX sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše GCX pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -239,16 +239,16 @@
         <translation>BIP 38 Šifrovanie</translation>
     </message>
     <message>
-        <source>Enter a GCXX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Zadajte adresu GCXX, ktorú chcete zašifrovať pomocou BIP 38. Zadajte prístupovú frázu do stredného poľa. Stlačte šifrovanie na výpočet šifrovaného privátneho kľúča.</translation>
+        <source>Enter a GCX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Zadajte adresu GCX, ktorú chcete zašifrovať pomocou BIP 38. Zadajte prístupovú frázu do stredného poľa. Stlačte šifrovanie na výpočet šifrovaného privátneho kľúča.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>Adresa GCXX, ktorou chcete správu podpísať</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>Adresa GCX, ktorou chcete správu podpísať</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto GCXX adresy</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto GCX adresy</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Zadajte súkromný kľúč zašifrovaný BIP 38. Zadajte prístupovú frázu do stredného poľa. Kliknite na Dešifrovať kľúč, ak chcete vypočítať privátny kľúč. Po dešifrovaní kľúča pridáte do peňaženky tento súkromný kľúč kliknutím na položku 'Importovať adresu'.</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>GCXX adresa, ktorou bola správa podpísaná</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>GCX adresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou GCXX adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou GCX adresou</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -598,12 +598,12 @@
         <translation>Panel nástrojov Záložky</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
-        <source>Send coins to a GCXX address</source>
-        <translation>Odoslať mince na adresu GCXX</translation>
+        <source>Send coins to a GCX address</source>
+        <translation>Odoslať mince na adresu GCX</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and gcx: URIs)</source>
@@ -618,24 +618,24 @@
         <translation>Prezrieť masternody</translation>
     </message>
     <message>
-        <source>&amp;About GCXX Core</source>
-        <translation>O GCXX Core</translation>
+        <source>&amp;About GCX Core</source>
+        <translation>O GCX Core</translation>
     </message>
     <message>
-        <source>Show information about GCXX Core</source>
-        <translation>Zobraziť informácie o GCXX Core</translation>
+        <source>Show information about GCX Core</source>
+        <translation>Zobraziť informácie o GCX Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for GCXX</source>
-        <translation>Zmeňte možnosti konfigurácie pre GCXX</translation>
+        <source>Modify configuration options for GCX</source>
+        <translation>Zmeňte možnosti konfigurácie pre GCX</translation>
     </message>
     <message>
-        <source>Sign messages with your GCXX addresses to prove you own them</source>
-        <translation>Podpíšte správy pomocou adresy GCXX, aby ste preukázali, že ich vlastníte</translation>
+        <source>Sign messages with your GCX addresses to prove you own them</source>
+        <translation>Podpíšte správy pomocou adresy GCX, aby ste preukázali, že ich vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified GCXX addresses</source>
-        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými GCXX adresami</translation>
+        <source>Verify messages to ensure they were signed with specified GCX addresses</source>
+        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými GCX adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -666,8 +666,8 @@
         <translation>Otvoriť konfiguračný súbor masternodu</translation>
     </message>
     <message>
-        <source>Open a GCXX: URI or payment request</source>
-        <translation>Otvorte GCXX: URI alebo žiadosť o platbu</translation>
+        <source>Open a GCX: URI or payment request</source>
+        <translation>Otvorte GCX: URI alebo žiadosť o platbu</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -678,12 +678,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the GCXX Core help message to get a list with possible GCXX command-line options</source>
-        <translation>Zobraziť pomocnú správu programu GCXX Core a získajte zoznam možností príkazového riadka GCXX</translation>
+        <source>Show the GCX Core help message to get a list with possible GCX command-line options</source>
+        <translation>Zobraziť pomocnú správu programu GCX Core a získajte zoznam možností príkazového riadka GCX</translation>
     </message>
     <message>
-        <source>GCXX Core client</source>
-        <translation>GCXX Core klient</translation>
+        <source>GCX Core client</source>
+        <translation>GCX Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -900,15 +900,15 @@ MultiSend: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1139,8 +1139,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>Adresa GCXX, ktorou chcete správu podpísať</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>Adresa GCX, ktorou chcete správu podpísať</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1163,16 +1163,16 @@ MultiSend: %1</translation>
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto GCXX adresy</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto GCX adresy</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>GCXX adresa, ktorou bola správa podpísaná</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>GCX adresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou GCXX adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou GCX adresou</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1210,8 +1210,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     </context>
 <context>

@@ -1,6 +1,6 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2017 The GCXX developers
+// Copyright (c) 2015-2017 The GCX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -79,10 +79,10 @@ void OptionsModel::Init()
         settings.setValue("nZeromintPercentage", 10);
     nZeromintPercentage = settings.value("nZeromintPercentage").toLongLong();
 
-    if (!settings.contains("nAnonymizeGCXXAmount"))
-        settings.setValue("nAnonymizeGCXXAmount", 1000);
+    if (!settings.contains("nAnonymizeGCXAmount"))
+        settings.setValue("nAnonymizeGCXAmount", 1000);
 
-    nAnonymizeGCXXAmount = settings.value("nAnonymizeGCXXAmount").toLongLong();
+    nAnonymizeGCXAmount = settings.value("nAnonymizeGCXAmount").toLongLong();
 
     if (!settings.contains("fShowMasternodesTab"))
         settings.setValue("fShowMasternodesTab", masternodeConfig.getCount());
@@ -151,8 +151,8 @@ void OptionsModel::Init()
         SoftSetArg("-zeromintpercentage", settings.value("nZeromintPercentage").toString().toStdString());
     if (settings.contains("nPreferredDenom"))
         SoftSetArg("-preferredDenom", settings.value("nPreferredDenom").toString().toStdString());
-    if (settings.contains("nAnonymizeGCXXAmount"))
-        SoftSetArg("-anonymizegcxamount", settings.value("nAnonymizeGCXXAmount").toString().toStdString());
+    if (settings.contains("nAnonymizeGCXAmount"))
+        SoftSetArg("-anonymizegcxamount", settings.value("nAnonymizeGCXAmount").toString().toStdString());
 
     language = settings.value("language").toString();
 }
@@ -234,8 +234,8 @@ QVariant OptionsModel::data(const QModelIndex& index, int role) const
             return QVariant(nZeromintPercentage);
         case ZeromintPrefDenom:
             return QVariant(nPreferredDenom);
-        case AnonymizeGCXXAmount:
-            return QVariant(nAnonymizeGCXXAmount);
+        case AnonymizeGCXAmount:
+            return QVariant(nAnonymizeGCXAmount);
         case Listen:
             return settings.value("fListen");
         default:
@@ -350,10 +350,10 @@ bool OptionsModel::setData(const QModelIndex& index, const QVariant& value, int 
             emit preferredDenomChanged(nPreferredDenom);
             break;
 
-        case AnonymizeGCXXAmount:
-            nAnonymizeGCXXAmount = value.toInt();
-            settings.setValue("nAnonymizeGCXXAmount", nAnonymizeGCXXAmount);
-            emit anonymizeGCXXAmountChanged(nAnonymizeGCXXAmount);
+        case AnonymizeGCXAmount:
+            nAnonymizeGCXAmount = value.toInt();
+            settings.setValue("nAnonymizeGCXAmount", nAnonymizeGCXAmount);
+            emit anonymizeGCXAmountChanged(nAnonymizeGCXAmount);
             break;
         case CoinControlFeatures:
             fCoinControlFeatures = value.toBool();

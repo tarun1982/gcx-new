@@ -1,5 +1,5 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
-// Copyright (c) 2015-2017 The GCXX developers
+// Copyright (c) 2015-2017 The GCX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -47,7 +47,7 @@ static bool AppInitRawTx(int argcx, char* argv[])
 
     if (argcx < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("GCXX Core gcx-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("GCX Core gcx-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
                                "  gcx-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded gcx transaction") + "\n" +
                                "  gcx-tx [options] -create [commands]   " + _("Create hex-encoded gcx transaction") + "\n" +

@@ -227,8 +227,8 @@
         <translation>Zakodowany klucz:</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres GCXX jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres GCX jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -518,12 +518,12 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>&amp;Rdzeń GCXX</translation>
+        <source>GCX Core</source>
+        <translation>&amp;Rdzeń GCX</translation>
     </message>
     <message>
-        <source>Send coins to a GCXX address</source>
-        <translation>Wyślij monety do adresu GCXX</translation>
+        <source>Send coins to a GCX address</source>
+        <translation>Wyślij monety do adresu GCX</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and gcx: URIs)</source>
@@ -538,24 +538,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About GCXX Core</source>
+        <source>&amp;About GCX Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about GCXX Core</source>
+        <source>Show information about GCX Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for GCXX</source>
-        <translation>Modyfikuj opcje konfiguracji GCXX</translation>
+        <source>Modify configuration options for GCX</source>
+        <translation>Modyfikuj opcje konfiguracji GCX</translation>
     </message>
     <message>
-        <source>Sign messages with your GCXX addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami GCXX, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your GCX addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami GCX, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified GCXX addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu GCXX</translation>
+        <source>Verify messages to ensure they were signed with specified GCX addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu GCX</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -582,8 +582,8 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a GCXX: URI or payment request</source>
-        <translation>Otwórz GCXX: URI i żądanie zapłaty</translation>
+        <source>Open a GCX: URI or payment request</source>
+        <translation>Otwórz GCX: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -594,12 +594,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the GCXX Core help message to get a list with possible GCXX command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia GCXX, aby dostać listę możliwych opcji GCXX command-line</translation>
+        <source>Show the GCX Core help message to get a list with possible GCX command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia GCX, aby dostać listę możliwych opcji GCX command-line</translation>
     </message>
     <message>
-        <source>GCXX Core client</source>
-        <translation>Rdzeń GCXX klient</translation>
+        <source>GCX Core client</source>
+        <translation>Rdzeń GCX klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -912,8 +912,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>&amp;Rdzeń GCXX</translation>
+        <source>GCX Core</source>
+        <translation>&amp;Rdzeń GCX</translation>
     </message>
     </context>
 <context>
@@ -927,8 +927,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>&amp;Rdzeń GCXX</translation>
+        <source>GCX Core</source>
+        <translation>&amp;Rdzeń GCX</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1203,12 +1203,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start GCXX after logging in to the system.</source>
-        <translation>Automatycznie uruchom GCXX po zalogowaniu do systemu</translation>
+        <source>Automatically start GCX after logging in to the system.</source>
+        <translation>Automatycznie uruchom GCX po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start GCXX on system login</source>
-        <translation>&amp;Uruchom GCXX podczas logowania do systemu</translation>
+        <source>&amp;Start GCX on system login</source>
+        <translation>&amp;Uruchom GCX podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1227,8 +1227,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting GCXX.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie GCXX</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GCX.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie GCX</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1237,8 +1237,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations</source>
 https://www.transifex.com/gcx-project/gcx-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the GCXX network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią GCXX poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the GCX network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią GCX poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1476,8 +1476,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations </translation>
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a GCXX address (e.g. %1)</source>
-        <translation>Wprowadź adres GCXX (np. %1)</translation>
+        <source>Enter a GCX address (e.g. %1)</source>
+        <translation>Wprowadź adres GCX (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1915,8 +1915,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations </translation>
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres GCXX jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres GCX jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1950,8 +1950,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations </translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>&amp;Rdzeń GCXX</translation>
+        <source>GCX Core</source>
+        <translation>&amp;Rdzeń GCX</translation>
     </message>
     </context>
 <context>

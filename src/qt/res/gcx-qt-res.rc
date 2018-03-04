@@ -19,14 +19,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "GCXX"
-            VALUE "FileDescription",    "GCXX Core (OSS GUI client for GCXX)"
+            VALUE "CompanyName",        "GCX"
+            VALUE "FileDescription",    "GCX Core (OSS GUI client for GCX)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "gcx-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "gcx-qt.exe"
-            VALUE "ProductName",        "GCXX Core"
+            VALUE "ProductName",        "GCX Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

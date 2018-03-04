@@ -1,9 +1,9 @@
-GCXX Core integration/staging repository
+GCX Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/shamimiceewu025/GCXX.svg?branch=master)](https://travis-ci.org/shamimiceewu025/GCXX) [![GitHub version](https://badge.fury.io/gh/shamimiceewu025%2FGCXX.svg)](https://badge.fury.io/gh/shamimiceewu025%2FGCXX)
+[![Build Status](https://travis-ci.org/shamimiceewu025/GCX.svg?branch=master)](https://travis-ci.org/shamimiceewu025/GCX) [![GitHub version](https://badge.fury.io/gh/shamimiceewu025%2FGCX.svg)](https://badge.fury.io/gh/shamimiceewu025%2FGCX)
 
-GCXX is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
+GCX is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - Anonymized transactions using coin mixing technology, we call it _Obfuscation_.
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode

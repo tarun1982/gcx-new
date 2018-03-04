@@ -35,9 +35,9 @@ def check_json_precision():
 def determine_db_dir():
     """Return the default location of the gcx data directory"""
     if platform.system() == "Darwin":
-        return os.path.expanduser("~/Library/Application Support/GCXX/")
+        return os.path.expanduser("~/Library/Application Support/GCX/")
     elif platform.system() == "Windows":
-        return os.path.join(os.environ['APPDATA'], "GCXX")
+        return os.path.join(os.environ['APPDATA'], "GCX")
     return os.path.expanduser("~/.gcx")
 
 def read_bitcoin_config(dbdir):

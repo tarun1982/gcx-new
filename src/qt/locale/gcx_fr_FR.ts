@@ -152,8 +152,8 @@
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>GCXX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
-        <translation>GCXX va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos GCXs d'un vol par un malware ayant infecté votre ordinateur. </translation>
+        <source>GCX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
+        <translation>GCX va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos GCXs d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -211,16 +211,16 @@
         <translation>BIP 38 crypter</translation>
     </message>
     <message>
-        <source>Enter a GCXX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Entrez une adresse GCXX que vous voulez crypter en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
+        <source>Enter a GCX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Entrez une adresse GCX que vous voulez crypter en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresse :</translation>
     </message>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>L'adresse GCXX avec laquelle signer le message</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>L'adresse GCX avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -251,8 +251,8 @@
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Signer le message pour prouver que vous possédez cette adresse GCXX</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Signer le message pour prouver que vous possédez cette adresse GCX</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -271,12 +271,12 @@
         <translation>BIP 38 Décrypter</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>L'adresse GCXX avec laquelle le message a été signé</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>L'adresse GCX avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse GCXX renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse GCX renseignée</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -534,8 +534,8 @@
         <translation>&amp;Aide</translation>
     </message>
     <message>
-        <source>Send coins to a GCXX address</source>
-        <translation>Envoyer des pièces à une adresse GCXX</translation>
+        <source>Send coins to a GCX address</source>
+        <translation>Envoyer des pièces à une adresse GCX</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -546,16 +546,16 @@
         <translation>Afficher les masternodes</translation>
     </message>
     <message>
-        <source>Modify configuration options for GCXX</source>
-        <translation>Modifier les options de configuration pour GCXX</translation>
+        <source>Modify configuration options for GCX</source>
+        <translation>Modifier les options de configuration pour GCX</translation>
     </message>
     <message>
-        <source>Sign messages with your GCXX addresses to prove you own them</source>
-        <translation>Signer les messages avec votre adresse GCXX pour prouver qu'elles sont bien à vous.</translation>
+        <source>Sign messages with your GCX addresses to prove you own them</source>
+        <translation>Signer les messages avec votre adresse GCX pour prouver qu'elles sont bien à vous.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified GCXX addresses</source>
-        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse GCXX spécifié</translation>
+        <source>Verify messages to ensure they were signed with specified GCX addresses</source>
+        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse GCX spécifié</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -850,8 +850,8 @@ Adresse : %4
         <translation>Modifier l'adresse d'envoi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid GCXX address.</source>
-        <translation>L'adresse entrée "%1" n'est pas une adresse GCXX valide</translation>
+        <source>The entered address "%1" is not a valid GCX address.</source>
+        <translation>L'adresse entrée "%1" n'est pas une adresse GCX valide</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1531,8 +1531,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Payer à :</translation>
     </message>
     <message>
-        <source>The GCXX address to send the payment to</source>
-        <translation>L'adresse GCXX à laquelle envoyer le paiement</translation>
+        <source>The GCX address to send the payment to</source>
+        <translation>L'adresse GCX à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1577,8 +1577,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Signer le message</translation>
     </message>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>L'adresse GCXX avec laquelle signer le message</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>L'adresse GCX avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1605,16 +1605,16 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Signer le message pour prouver que vous possédez cette adresse GCXX</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Signer le message pour prouver que vous possédez cette adresse GCX</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>L'adresse GCXX avec laquelle le message a été signé</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>L'adresse GCX avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse GCXX renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse GCX renseignée</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>

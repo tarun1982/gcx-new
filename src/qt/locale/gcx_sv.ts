@@ -58,12 +58,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina GCXX adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your GCX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina GCX adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina GCXX adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your GCX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina GCX adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -160,8 +160,8 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>GCXX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
-        <translation>GCXX kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina GCXs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>GCX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
+        <translation>GCX kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina GCXs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -223,8 +223,8 @@
         <translation>BIP 38 Kryptering</translation>
     </message>
     <message>
-        <source>Enter a GCXX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ange en GCXX adress som du vill kryptera med BIP 38.
+        <source>Enter a GCX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ange en GCX adress som du vill kryptera med BIP 38.
 Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den krypterade privata nyckeln.</translation>
     </message>
     <message>
@@ -232,8 +232,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>GCXX adressen för signera meddelandet med</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>GCX adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -264,8 +264,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna GCXX adress</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna GCX adress</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -288,12 +288,12 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Ange BIP 38 krypterade privata nyckeln. Ange lösenfrasen i med mittersta boxen. Tryck på krypetra nyckel för att beräkna den privata nyckeln. Efter att nyckeln är avkrypterad, Tryck på 'Importera Adress' kommer att lägga till denna privata nyckel till plånboken.</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>GCXX adressen meddelandet blev signerat med</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>GCX adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika GCXX adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika GCX adressen.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -583,12 +583,12 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Kärna</translation>
+        <source>GCX Core</source>
+        <translation>GCX Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a GCXX address</source>
-        <translation>Skicka mynt till en GCXX adress</translation>
+        <source>Send coins to a GCX address</source>
+        <translation>Skicka mynt till en GCX adress</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and gcx: URIs)</source>
@@ -603,24 +603,24 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About GCXX Core</source>
-        <translation>Om GCXX Kärnan</translation>
+        <source>&amp;About GCX Core</source>
+        <translation>Om GCX Kärnan</translation>
     </message>
     <message>
-        <source>Show information about GCXX Core</source>
-        <translation>Visa information om GCXX Kärnan</translation>
+        <source>Show information about GCX Core</source>
+        <translation>Visa information om GCX Kärnan</translation>
     </message>
     <message>
-        <source>Modify configuration options for GCXX</source>
-        <translation>Ändra konfigurationsval för GCXX</translation>
+        <source>Modify configuration options for GCX</source>
+        <translation>Ändra konfigurationsval för GCX</translation>
     </message>
     <message>
-        <source>Sign messages with your GCXX addresses to prove you own them</source>
-        <translation>Signera meddelanden med din GCXX adress för att visa att du äger dem</translation>
+        <source>Sign messages with your GCX addresses to prove you own them</source>
+        <translation>Signera meddelanden med din GCX adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified GCXX addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika GCXX adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified GCX addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika GCX adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -631,8 +631,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kryptera och avkryptera privata nycklar genom användning av lösenfras</translation>
     </message>
     <message>
-        <source>GCXX Core client</source>
-        <translation>GCXX kärn klient</translation>
+        <source>GCX Core client</source>
+        <translation>GCX kärn klient</translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -837,15 +837,15 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Kärna</translation>
+        <source>GCX Core</source>
+        <translation>GCX Kärna</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Kärna</translation>
+        <source>GCX Core</source>
+        <translation>GCX Kärna</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1164,8 +1164,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>GCXX adressen för signera meddelandet med</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>GCX adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1188,16 +1188,16 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna GCXX adress</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna GCX adress</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>GCXX adressen meddelandet blev signerat med</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>GCX adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika GCXX adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika GCX adressen.</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1239,8 +1239,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Kärna</translation>
+        <source>GCX Core</source>
+        <translation>GCX Kärna</translation>
     </message>
     </context>
 <context>

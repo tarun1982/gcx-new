@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones GCXX para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your GCX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones GCX para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones GCXX para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your GCX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones GCX para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Confirme el cifrado del monedero</translation>
     </message>
     <message>
-        <source>GCXX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
-        <translation>GCXX se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus GCXs no sean robados mediante malware de su ordenador.</translation>
+        <source>GCX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
+        <translation>GCX se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus GCXs no sean robados mediante malware de su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -239,16 +239,16 @@
         <translation>&amp;Cifrado BIP 38</translation>
     </message>
     <message>
-        <source>Enter a GCXX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Introduzca la dirección GCXX que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
+        <source>Enter a GCX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Introduzca la dirección GCX que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>La dirección GCXX con la que desee firmar el mensaje</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>La dirección GCX con la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección GCXX</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección GCX</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Introduzca la clave cifrada privada BIP 38. Introduzca la contraseña en el campo central. Haga clic en descifrar clave para generar la clave privada. Después de que la clave sea descifrada, pulsando en 'Importar dirección' añadirá esta clave privada al monedero.</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>La dirección GCXX con la que se firmó el mensaje</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>La dirección GCX con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección GCXX especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección GCX especificada</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,12 +602,12 @@
         <translation>Herramienta de pestañas</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>Núcleo GCXX</translation>
+        <source>GCX Core</source>
+        <translation>Núcleo GCX</translation>
     </message>
     <message>
-        <source>Send coins to a GCXX address</source>
-        <translation>Enviar coins a una dirección GCXX</translation>
+        <source>Send coins to a GCX address</source>
+        <translation>Enviar coins a una dirección GCX</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and gcx: URIs)</source>
@@ -626,24 +626,24 @@
         <translation>Explorar nodos maestros</translation>
     </message>
     <message>
-        <source>&amp;About GCXX Core</source>
-        <translation>&amp;Sobre el núcleo de GCXX</translation>
+        <source>&amp;About GCX Core</source>
+        <translation>&amp;Sobre el núcleo de GCX</translation>
     </message>
     <message>
-        <source>Show information about GCXX Core</source>
-        <translation>Mostrar información sobre el núcleo de GCXX</translation>
+        <source>Show information about GCX Core</source>
+        <translation>Mostrar información sobre el núcleo de GCX</translation>
     </message>
     <message>
-        <source>Modify configuration options for GCXX</source>
-        <translation>Modificar las opciones de configuración de GCXX</translation>
+        <source>Modify configuration options for GCX</source>
+        <translation>Modificar las opciones de configuración de GCX</translation>
     </message>
     <message>
-        <source>Sign messages with your GCXX addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones GCXX para demostrar que le pertenecen</translation>
+        <source>Sign messages with your GCX addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones GCX para demostrar que le pertenecen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified GCXX addresses</source>
-        <translation>Verificar mensajes para asegurar que están firmados con la dirección GCXX especificada</translation>
+        <source>Verify messages to ensure they were signed with specified GCX addresses</source>
+        <translation>Verificar mensajes para asegurar que están firmados con la dirección GCX especificada</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -674,8 +674,8 @@
         <translation>Abrir Fichero de Configuración de Nodos Maestros</translation>
     </message>
     <message>
-        <source>Open a GCXX: URI or payment request</source>
-        <translation>Abrir un GCXX: URI o solicitud de pago</translation>
+        <source>Open a GCX: URI or payment request</source>
+        <translation>Abrir un GCX: URI o solicitud de pago</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -686,16 +686,16 @@
         <translation>Ventana del explorador de bloques</translation>
     </message>
     <message>
-        <source>Show the GCXX Core help message to get a list with possible GCXX command-line options</source>
-        <translation>Mostrar la ayuda de GCXX Core para obtener una lista de posibles opciones en línea de comandos</translation>
+        <source>Show the GCX Core help message to get a list with possible GCX command-line options</source>
+        <translation>Mostrar la ayuda de GCX Core para obtener una lista de posibles opciones en línea de comandos</translation>
     </message>
     <message>
-        <source>GCXX Core client</source>
-        <translation>Cliente GCXX Core</translation>
+        <source>GCX Core client</source>
+        <translation>Cliente GCX Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to GCXX network</source>
-        <translation><numerusform>%n conexión(es) activa a la red GCXX</numerusform><numerusform>%n conexion(es) activas a la red GCXX</numerusform></translation>
+        <source>%n active connection(s) to GCX network</source>
+        <translation><numerusform>%n conexión(es) activa a la red GCX</numerusform><numerusform>%n conexion(es) activas a la red GCX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1138,8 +1138,8 @@ MultiEnvío: %1</translation>
         <translation>Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid GCXX address.</source>
-        <translation>La dirección introducida "%1" no es una dirección GCXX válida.</translation>
+        <source>The entered address "%1" is not a valid GCX address.</source>
+        <translation>La dirección introducida "%1" no es una dirección GCX válida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1184,16 +1184,16 @@ MultiEnvío: %1</translation>
         <translation>versión</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>Núcleo GCXX</translation>
+        <source>GCX Core</source>
+        <translation>Núcleo GCX</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About GCXX Core</source>
-        <translation>Acerca de GCXX Core</translation>
+        <source>About GCX Core</source>
+        <translation>Acerca de GCX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1239,16 +1239,16 @@ MultiEnvío: %1</translation>
         <translation>Bienvenido/a</translation>
     </message>
     <message>
-        <source>Welcome to GCXX Core.</source>
-        <translation>Bienvenido/a a GCXX Core.</translation>
+        <source>Welcome to GCX Core.</source>
+        <translation>Bienvenido/a a GCX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where GCXX Core will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará GCXX Core sus datos.</translation>
+        <source>As this is the first time the program is launched, you can choose where GCX Core will store its data.</source>
+        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará GCX Core sus datos.</translation>
     </message>
     <message>
-        <source>GCXX Core will download and store a copy of the GCXX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>GCXX Core descargará y guardará una copia de la cadena de bloques GCXX. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <source>GCX Core will download and store a copy of the GCX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>GCX Core descargará y guardará una copia de la cadena de bloques GCX. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1259,8 +1259,8 @@ MultiEnvío: %1</translation>
         <translation>Usar una carpeta de datos personalizada:</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>Núcleo GCXX</translation>
+        <source>GCX Core</source>
+        <translation>Núcleo GCX</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1401,12 +1401,12 @@ MultiEnvío: %1</translation>
         <translation>Introduzca Dirección a la cual Enviar</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other GCXX addresses after it matures.
-To Add: enter percentage to give and GCXX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other GCX addresses after it matures.
+To Add: enter percentage to give and GCX address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones GCXX después de su maduración.
-Para Añadir: introduzca porcentaje a enviar y las direcciones GCXX a añadir al vector MultiEnvío.
+        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones GCX después de su maduración.
+Para Añadir: introduzca porcentaje a enviar y las direcciones GCX a añadir al vector MultiEnvío.
 Para Eliminar: Introduzca la dirección a eliminar y pulse la tecla delete.
 MultiEnvío no se activará a menos que haga usted click en Activar</translation>
     </message>
@@ -1595,16 +1595,16 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Configuración de Ofuscación</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening GCXX's configuration screen.</source>
-        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de GCXX.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening GCX's configuration screen.</source>
+        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de GCX.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening GCXX's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de GCXX.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening GCX's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de GCX.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening GCXX's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de GCXX.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening GCX's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de GCX.</translation>
     </message>
 </context>
 <context>
@@ -1665,8 +1665,8 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Si deselecciona el gasto de cambio no confirmado, las entradas de una transacción&lt;br/&gt;no podrán ser usadas hasta que esa transacción tenga al menos una confirmación.&lt;br/&gt;Esto también afecta a cómo se calcula su balance actual.</translation>
     </message>
     <message>
-        <source>Automatically open the GCXX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente GCXX en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
+        <source>Automatically open the GCX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente GCX en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1685,12 +1685,12 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Experto</translation>
     </message>
     <message>
-        <source>Automatically start GCXX after logging in to the system.</source>
-        <translation>Arrancar GCXX automáticamente después de identificarse en Windows.</translation>
+        <source>Automatically start GCX after logging in to the system.</source>
+        <translation>Arrancar GCX automáticamente después de identificarse en Windows.</translation>
     </message>
     <message>
-        <source>&amp;Start GCXX on system login</source>
-        <translation>&amp;Arrancar GCXX al inicio del sistema</translation>
+        <source>&amp;Start GCX on system login</source>
+        <translation>&amp;Arrancar GCX al inicio del sistema</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1717,8 +1717,8 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>&amp;Red</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting GCXX.</source>
-        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar GCXX.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GCX.</source>
+        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar GCX.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1747,8 +1747,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations</translation>
         <translation>Tamaño de billete zGCX preferido en la creación automática de dinero</translation>
     </message>
     <message>
-        <source>Connect to the GCXX network through a SOCKS5 proxy.</source>
-        <translation>Conectar a la red GCXX mediante un proxy SOCKS5.</translation>
+        <source>Connect to the GCX network through a SOCKS5 proxy.</source>
+        <translation>Conectar a la red GCX mediante un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1906,8 +1906,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations</translation>
         <translation>Recompensa de participación o de nodo maestro que aún no ha madurado</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCXX network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red GCXX después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCX network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red GCX después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1997,8 +1997,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations</translation>
         <translation>No se puede iniciar gcx: módulo click-to-pay</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid GCXX address or malformed URI parameters.</source>
-        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección GCXX inválida o parámetros del identificador malformados.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid GCX address or malformed URI parameters.</source>
+        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección GCX inválida o parámetros del identificador malformados.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2091,8 +2091,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations</translation>
         <translation>Acciones Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCXX network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red GCXX después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCX network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red GCX después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Enter an amount of GCX to convert to zGCX</source>
@@ -2195,8 +2195,8 @@ https://www.transifex.com/gcx-project/gcx-project-translations</translation>
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The GCXX address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>La dirección GCXX a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
+        <source>The GCX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>La dirección GCX a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2437,8 +2437,8 @@ Por favor espere...</translation>
         <translation>No se especificó drección 'Pagar A', por lo que asumimos un pago local</translation>
     </message>
     <message>
-        <source>Invalid GCXX Address</source>
-        <translation>Dirección GCXX Inválida</translation>
+        <source>Invalid GCX Address</source>
+        <translation>Dirección GCX Inválida</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2524,8 +2524,8 @@ Por favor tenga paciencia...</translation>
         <translation>Cantidad</translation>
     </message>
     <message>
-        <source>Enter a GCXX address (e.g. %1)</source>
-        <translation>Introduzca una dirección GCXX (p.e. %1)</translation>
+        <source>Enter a GCX address (e.g. %1)</source>
+        <translation>Introduzca una dirección GCX (p.e. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2662,8 +2662,8 @@ Por favor tenga paciencia...</translation>
         <translation>Cadena de bloques</translation>
     </message>
     <message>
-        <source>Open the GCXX debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir el fichero de depuración GCXX en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
+        <source>Open the GCX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir el fichero de depuración GCX en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2830,8 +2830,8 @@ Por favor tenga paciencia...</translation>
         <translation>Fuera:</translation>
     </message>
     <message>
-        <source>Welcome to the GCXX RPC console.</source>
-        <translation>Bienvenido a la consola RPC de GCXX.</translation>
+        <source>Welcome to the GCX RPC console.</source>
+        <translation>Bienvenido a la consola RPC de GCX.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2901,12 +2901,12 @@ Por favor tenga paciencia...</translation>
         <translation>Una etiqueta opcional a asociar con la nueva dirección de recepción.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the GCXX network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red GCXX.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the GCX network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red GCX.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the GCXX network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red GCXX.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the GCX network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red GCX.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3190,8 +3190,8 @@ Por favor tenga paciencia...</translation>
         <translation>Si la comisión personalizada se fija en 1000 uGCXs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uGCXs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uGCXs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for GCXX transactions than the network can process.</source>
-        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones GCXX de las que la red puede procesar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for GCX transactions than the network can process.</source>
+        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones GCX de las que la red puede procesar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3294,8 +3294,8 @@ Por favor tenga paciencia...</translation>
         <translation>fondos anónimos</translation>
     </message>
     <message>
-        <source>Warning: Invalid GCXX address</source>
-        <translation>Advertencia: Direcciones GCXX inválidas</translation>
+        <source>Warning: Invalid GCX address</source>
+        <translation>Advertencia: Direcciones GCX inválidas</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3397,8 +3397,8 @@ Por favor tenga paciencia...</translation>
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The GCXX address to send the payment to</source>
-        <translation>La dirección GCXX a la cual enviar el pago</translation>
+        <source>The GCX address to send the payment to</source>
+        <translation>La dirección GCX a la cual enviar el pago</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3437,8 +3437,8 @@ Por favor tenga paciencia...</translation>
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>A message that was attached to the GCXX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the GCXX network.</source>
-        <translation>Un mensaje adjunto al GCXX: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red GCXX.</translation>
+        <source>A message that was attached to the GCX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the GCX network.</source>
+        <translation>Un mensaje adjunto al GCX: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red GCX.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3464,8 +3464,8 @@ Por favor tenga paciencia...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>GCXX Core is shutting down...</source>
-        <translation>El programa GCXX se está cerrando...</translation>
+        <source>GCX Core is shutting down...</source>
+        <translation>El programa GCX se está cerrando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3487,8 +3487,8 @@ Por favor tenga paciencia...</translation>
         <translation>Usted puede firmar mensajes con su dirección para probar que son auténticos. Tenga cuidado con firmar algo corto o vago como "hola", pues los ataques de phising pueden engañarle para que firme su identidad para ellos. Sólo firme textos detallados con los que esté de acuerdo.</translation>
     </message>
     <message>
-        <source>The GCXX address to sign the message with</source>
-        <translation>La dirección GCXX con la que desee firmar el mensaje</translation>
+        <source>The GCX address to sign the message with</source>
+        <translation>La dirección GCX con la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3519,16 +3519,16 @@ Por favor tenga paciencia...</translation>
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this GCXX address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección GCXX</translation>
+        <source>Sign the message to prove you own this GCX address</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección GCX</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>La dirección GCXX con la que se firmó el mensaje</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>La dirección GCX con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección GCXX especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección GCX especificada</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3614,8 +3614,8 @@ Por favor tenga paciencia...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>Núcleo GCXX</translation>
+        <source>GCX Core</source>
+        <translation>Núcleo GCX</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3630,8 +3630,8 @@ Por favor tenga paciencia...</translation>
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The GCXX Core developers</source>
-        <translation>Los desarrolladores de GCXX Core</translation>
+        <source>The GCX Core developers</source>
+        <translation>Los desarrolladores de GCX Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4287,8 +4287,8 @@ Por favor tenga paciencia...</translation>
         <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. GCXX Core is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. GCXX Core esta probablemente en ejecución.</translation>
+        <source>Cannot obtain a lock on data directory %s. GCX Core is probably already running.</source>
+        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. GCX Core esta probablemente en ejecución.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4448,7 +4448,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "GCXX Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "GCX Alert" admin@foo.com
 </source>
         <translation>Para usar gcxd, o la opción -server de gcx-qt, debes definir un rpcpassword en el archivo de configuración:
 %s
@@ -4459,12 +4459,12 @@ rpcrpcpassword=%s
 El nombre de usuario y contraseña NO DEBEN ser los mismos.
 Si el archivo no existe, crearlo con permisos de solo lectura para el propietario.
 También es recomendado definir alertnotify de manera que seas notificado de problemas;
-por ejemplo: alertnotify=echo %%s | mail -s "GCXX Alert" admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s "GCX Alert" admin@foo.com
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. GCXX Core is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que GCXX Core ya este corriendo.</translation>
+        <source>Unable to bind to %s on this computer. GCX Core is probably already running.</source>
+        <translation>Imposible conectar a %s en esta computadora. Es probable que GCX Core ya este corriendo.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4491,8 +4491,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "GCXX Alert" admin@foo.com
         <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong GCXX Core will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora GCXX Core no funcionará adecuadamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong GCX Core will not work properly.</source>
+        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora GCX Core no funcionará adecuadamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4647,8 +4647,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "GCXX Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The GCXX Core Developers</source>
-        <translation>Copyright (C) 2015-%i The GCXX Core Developers</translation>
+        <source>Copyright (C) 2015-%i The GCX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The GCX Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4727,8 +4727,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "GCXX Alert" admin@foo.com
         <translation>Error al cargar wallet.dat: Billetera dañada</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of GCXX Core</source>
-        <translation>Error al cargar wallet.dat: La Billetera requiere una nueva versión del Núcleo GCXX</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GCX Core</source>
+        <translation>Error al cargar wallet.dat: La Billetera requiere una nueva versión del Núcleo GCX</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4839,8 +4839,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "GCXX Alert" admin@foo.com
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. GCXX Core is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. GCXX Core se cerrará.</translation>
+        <source>Initialization sanity check failed. GCX Core is shutting down.</source>
+        <translation>La prueba de salud de inicialización ha fallado. GCX Core se cerrará.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5499,8 +5499,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "GCXX Alert" admin@foo.com
         <translation>Monedero bloqueado.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart GCXX Core to complete</source>
-        <translation>Monedero necesita ser reescrito: reinicie GCXX Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart GCX Core to complete</source>
+        <translation>Monedero necesita ser reescrito: reinicie GCX Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

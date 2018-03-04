@@ -62,12 +62,12 @@
         <translation>Adreces de recepció</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són les teves adreces GCXX per fer enviar pagaments. Sempre comprova l'import i l'adreça de recepció abans d'enviar les monedes.</translation>
+        <source>These are your GCX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són les teves adreces GCX per fer enviar pagaments. Sempre comprova l'import i l'adreça de recepció abans d'enviar les monedes.</translation>
     </message>
     <message>
-        <source>These are your GCXX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Aquestes són les teves adreces GCXX per rebre pagaments. Es recomana utilitzar noves adreces de recepció per cada transacció.</translation>
+        <source>These are your GCX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Aquestes són les teves adreces GCX per rebre pagaments. Es recomana utilitzar noves adreces de recepció per cada transacció.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,8 +168,8 @@
         <translation>Confirma l'encriptació del moneder</translation>
     </message>
     <message>
-        <source>GCXX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
-        <translation>GCXX es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus GCX de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
+        <source>GCX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
+        <translation>GCX es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus GCX de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -418,12 +418,12 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
-        <source>Send coins to a GCXX address</source>
-        <translation>Envia monedes a una adreça GCXX</translation>
+        <source>Send coins to a GCX address</source>
+        <translation>Envia monedes a una adreça GCX</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -434,8 +434,8 @@
         <translation>&amp;Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About GCXX Core</source>
-        <translation>&amp;Sobre GCXX Core</translation>
+        <source>&amp;About GCX Core</source>
+        <translation>&amp;Sobre GCX Core</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -458,12 +458,12 @@
         <translation>Obre el fitxer de configuració del Masternode</translation>
     </message>
     <message>
-        <source>GCXX Core client</source>
-        <translation>Client GCXX core</translation>
+        <source>GCX Core client</source>
+        <translation>Client GCX core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to GCXX network</source>
-        <translation><numerusform>%n connexió activa a la xarxa GCXX</numerusform><numerusform>%n connexions actives a la xarxa GCXX</numerusform></translation>
+        <source>%n active connection(s) to GCX network</source>
+        <translation><numerusform>%n connexió activa a la xarxa GCX</numerusform><numerusform>%n connexions actives a la xarxa GCX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -818,8 +818,8 @@
         <translation>Edita l'adreça d'enviament</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid GCXX address.</source>
-        <translation>L'adreça introduïda "%1" no és una adreça GCXX vàlida.</translation>
+        <source>The entered address "%1" is not a valid GCX address.</source>
+        <translation>L'adreça introduïda "%1" no és una adreça GCX vàlida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -864,16 +864,16 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About GCXX Core</source>
-        <translation>Sobre GCXX Core</translation>
+        <source>About GCX Core</source>
+        <translation>Sobre GCX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -919,12 +919,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to GCXX Core.</source>
-        <translation>Benvingut a GCXX Core.</translation>
+        <source>Welcome to GCX Core.</source>
+        <translation>Benvingut a GCX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where GCXX Core will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del GCXX Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where GCX Core will store its data.</source>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del GCX Core.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -935,8 +935,8 @@
         <translation>Usar una carpeta de dades personalitzada:</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1227,8 +1227,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start GCXX after logging in to the system.</source>
-        <translation>Inicia GCXX automàticament després d'identificar-te en el sistema.</translation>
+        <source>Automatically start GCX after logging in to the system.</source>
+        <translation>Inicia GCX automàticament després d'identificar-te en el sistema.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1742,8 +1742,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>GCXX Core is shutting down...</source>
-        <translation>GCXX Core s'està tancant...</translation>
+        <source>GCX Core is shutting down...</source>
+        <translation>GCX Core s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1808,8 +1808,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
         <source>Version %1</source>

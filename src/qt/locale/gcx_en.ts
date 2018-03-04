@@ -80,12 +80,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your GCXX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your GCX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your GCXX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your GCX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>GCXX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
+        <source>GCX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your GCXs from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <location line="+6"/>
-        <source>Enter a GCXX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a GCX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <location line="-355"/>
-        <source>The GCXX address to sign the message with</source>
+        <source>The GCX address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -360,7 +360,7 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GCXX address</source>
+        <source>Sign the message to prove you own this GCX address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -391,12 +391,12 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>The GCXX address the message was signed with</source>
+        <source>The GCX address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+29"/>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -811,12 +811,12 @@
     <message>
         <location line="-427"/>
         <location line="+890"/>
-        <source>GCXX Core</source>
+        <source>GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-707"/>
-        <source>Send coins to a GCXX address</source>
+        <source>Send coins to a GCX address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -841,27 +841,27 @@
     </message>
     <message>
         <location line="+31"/>
-        <source>&amp;About GCXX Core</source>
+        <source>&amp;About GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about GCXX Core</source>
+        <source>Show information about GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Modify configuration options for GCXX</source>
+        <source>Modify configuration options for GCX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>Sign messages with your GCXX addresses to prove you own them</source>
+        <source>Sign messages with your GCX addresses to prove you own them</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GCXX addresses</source>
+        <source>Verify messages to ensure they were signed with specified GCX addresses</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -901,7 +901,7 @@
     </message>
     <message>
         <location line="+17"/>
-        <source>Open a GCXX: URI or payment request</source>
+        <source>Open a GCX: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -916,17 +916,17 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the GCXX Core help message to get a list with possible GCXX command-line options</source>
+        <source>Show the GCX Core help message to get a list with possible GCX command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+214"/>
-        <source>GCXX Core client</source>
+        <source>GCX Core client</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location line="+212"/>
-        <source>%n active connection(s) to GCXX network</source>
+        <source>%n active connection(s) to GCX network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -1496,7 +1496,7 @@ Address: %4
     </message>
     <message>
         <location line="+67"/>
-        <source>The entered address &quot;%1&quot; is not a valid GCXX address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid GCX address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1552,7 +1552,7 @@ Address: %4
     </message>
     <message>
         <location line="+0"/>
-        <source>GCXX Core</source>
+        <source>GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1563,7 +1563,7 @@ Address: %4
     </message>
     <message>
         <location line="+4"/>
-        <source>About GCXX Core</source>
+        <source>About GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1621,17 +1621,17 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to GCXX Core.</source>
+        <source>Welcome to GCX Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where GCXX Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where GCX Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>GCXX Core will download and store a copy of the GCXX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>GCX Core will download and store a copy of the GCX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1646,7 +1646,7 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+77"/>
-        <source>GCXX Core</source>
+        <source>GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1822,8 +1822,8 @@ Address: %4
     </message>
     <message>
         <location line="+16"/>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other GCXX addresses after it matures.
-To Add: enter percentage to give and GCXX address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other GCX addresses after it matures.
+To Add: enter percentage to give and GCX address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
         <translation type="unfinished"></translation>
@@ -2252,17 +2252,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-27"/>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening GCXX&apos;s configuration screen.</source>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening GCX&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+14"/>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening GCXX&apos;s configuration screen.</source>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening GCX&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+14"/>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening GCXX&apos;s configuration screen.</source>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening GCX&apos;s configuration screen.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2338,7 +2338,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+33"/>
-        <source>Automatically open the GCXX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the GCX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2363,12 +2363,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="-176"/>
-        <source>Automatically start GCXX after logging in to the system.</source>
+        <source>Automatically start GCX after logging in to the system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GCXX on system login</source>
+        <source>&amp;Start GCX on system login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2403,7 +2403,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location line="+192"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GCXX.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting GCX.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2440,7 +2440,7 @@ https://www.transifex.com/gcx-project/gcx-project-translations</source>
     </message>
     <message>
         <location line="+114"/>
-        <source>Connect to the GCXX network through a SOCKS5 proxy.</source>
+        <source>Connect to the GCX network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2644,7 +2644,7 @@ https://www.transifex.com/gcx-project/gcx-project-translations</source>
     <message>
         <location line="-153"/>
         <location line="+1393"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCXX network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCX network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2870,7 +2870,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+114"/>
-        <source>URI cannot be parsed! This can be caused by an invalid GCXX address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid GCX address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2988,7 +2988,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+10"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCXX network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GCX network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3147,7 +3147,7 @@ zGCX are mature when they have more than 20 confirmations AND more than 2 mints 
     </message>
     <message>
         <location line="+27"/>
-        <source>The GCXX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <source>The GCX address to send the payment to. Creates local payment to yourself when empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3510,7 +3510,7 @@ Maximum allowed: </source>
     </message>
     <message>
         <location line="+4"/>
-        <source>Invalid GCXX Address</source>
+        <source>Invalid GCX Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3625,7 +3625,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+113"/>
-        <source>Enter a GCXX address (e.g. %1)</source>
+        <source>Enter a GCX address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3820,7 +3820,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+79"/>
-        <source>Open the GCXX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the GCX debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4047,7 +4047,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-36"/>
-        <source>Welcome to the GCXX RPC console.</source>
+        <source>Welcome to the GCX RPC console.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4163,12 +4163,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-37"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the GCXX network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the GCX network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the GCXX network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the GCX network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4532,7 +4532,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <message>
         <location line="+33"/>
         <location line="+13"/>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for GCXX transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for GCX transactions than the network can process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4663,7 +4663,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+622"/>
-        <source>Warning: Invalid GCXX address</source>
+        <source>Warning: Invalid GCX address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4802,7 +4802,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+18"/>
-        <source>The GCXX address to send the payment to</source>
+        <source>The GCX address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4856,7 +4856,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+10"/>
-        <source>A message that was attached to the GCXX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the GCXX network.</source>
+        <source>A message that was attached to the GCX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the GCX network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4891,7 +4891,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+75"/>
-        <source>GCXX Core is shutting down...</source>
+        <source>GCX Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4919,7 +4919,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+18"/>
-        <source>The GCXX address to sign the message with</source>
+        <source>The GCX address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4961,17 +4961,17 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GCXX address</source>
+        <source>Sign the message to prove you own this GCX address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+106"/>
-        <source>The GCXX address the message was signed with</source>
+        <source>The GCX address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified GCXX address</source>
+        <source>Verify the message to ensure it was signed with the specified GCX address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5086,7 +5086,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>GCXX Core</source>
+        <source>GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5106,7 +5106,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>The GCXX Core developers</source>
+        <source>The GCX Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5999,7 +5999,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+2"/>
-        <source>Cannot obtain a lock on data directory %s. GCXX Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. GCX Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6203,13 +6203,13 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GCXX Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GCX Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. GCXX Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. GCX Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6244,7 +6244,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GCXX Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GCXX Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GCX Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6439,7 +6439,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GCXX Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The GCXX Core Developers</source>
+        <source>Copyright (C) 2015-%i The GCX Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6554,7 +6554,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GCXX Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GCXX Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of GCX Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6709,7 +6709,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GCXX Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. GCXX Core is shutting down.</source>
+        <source>Initialization sanity check failed. GCX Core is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6826,7 +6826,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GCXX Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+38"/>
-        <source>Disable all GCXX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <source>Disable all GCX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7586,7 +7586,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GCXX Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GCXX Core to complete</source>
+        <source>Wallet needed to be rewritten: restart GCX Core to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

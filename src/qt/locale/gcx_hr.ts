@@ -115,8 +115,8 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>GCXX adresa s kojom je potpisana poruka</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>GCX adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
         <source>Allowed: 0-9,a-z,A-Z,</source>
@@ -150,8 +150,8 @@
         <translation>Otvori konfiguracijsku datoteku</translation>
     </message>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -162,8 +162,8 @@
         <translation>&amp;BIP38 alat</translation>
     </message>
     <message>
-        <source>GCXX Core client</source>
-        <translation>GCXX Core klijent</translation>
+        <source>GCX Core client</source>
+        <translation>GCX Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -260,15 +260,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -612,8 +612,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>GCXX Core is shutting down...</source>
-        <translation>GCXX Core se gasi...</translation>
+        <source>GCX Core is shutting down...</source>
+        <translation>GCX Core se gasi...</translation>
     </message>
     </context>
 <context>
@@ -635,8 +635,8 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>The GCXX address the message was signed with</source>
-        <translation>GCXX adresa s kojom je potpisana poruka</translation>
+        <source>The GCX address the message was signed with</source>
+        <translation>GCX adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
         <source>Message signed.</source>
@@ -650,8 +650,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>GCXX Core</source>
-        <translation>GCXX Core</translation>
+        <source>GCX Core</source>
+        <translation>GCX Core</translation>
     </message>
     <message>
         <source>Version %1</source>

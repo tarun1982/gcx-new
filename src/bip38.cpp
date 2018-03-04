@@ -1,4 +1,4 @@
-// Copyright (c) 2017 The GCXX Core developers
+// Copyright (c) 2017 The GCX Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 

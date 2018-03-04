@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=GCXX
-Comment=GCXX P2P Cryptocurrency
-Comment[fr]=GCXX, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=GCXX, eşten eşe kriptografik sanal para birimi
+Name=GCX
+Comment=GCX P2P Cryptocurrency
+Comment[fr]=GCX, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GCX, eşten eşe kriptografik sanal para birimi
 Exec=gcx-qt %u
 Terminal=false
 Type=Application

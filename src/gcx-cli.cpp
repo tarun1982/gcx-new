@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2015 The Bitcoin developers
 // Copyright (c) 2009-2015 The Dash developers
-// Copyright (c) 2015-2017 The GCXX developers
+// Copyright (c) 2015-2017 The GCX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -67,10 +67,10 @@ static bool AppInitRPC(int argcx, char* argv[])
     //
     ParseParameters(argcx, argv);
     if (argcx < 2 || mapArgs.count("-?") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("GCXX Core RPC client version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("GCX Core RPC client version") + " " + FormatFullVersion() + "\n";
         if (!mapArgs.count("-version")) {
             strUsage += "\n" + _("Usage:") + "\n" +
-                        "  gcx-cli [options] <command> [params]  " + _("Send command to GCXX Core") + "\n" +
+                        "  gcx-cli [options] <command> [params]  " + _("Send command to GCX Core") + "\n" +
                         "  gcx-cli [options] help                " + _("List commands") + "\n" +
                         "  gcx-cli [options] help <command>      " + _("Get help for a command") + "\n";
 

@@ -10,7 +10,7 @@
 
 /**
  * CBaseChainParams defines the base parameters (shared between gcx-cli and gcxd)
- * of a given instance of the GCXX system.
+ * of a given instance of the GCX system.
  */
 class CBaseChainParams
 {

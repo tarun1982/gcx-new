@@ -17,7 +17,7 @@
   <string>APPL</string>
 
   <key>CFBundleGetInfoString</key>
-  <string>@CLIENT_VERSION_MAJOR@.@CLIENT_VERSION_MINOR@.@CLIENT_VERSION_REVISION@, Copyright © 2009-@COPYRIGHT_YEAR@ The Bitcoin Core developers, 2014-@COPYRIGHT_YEAR@ The Dash Core developers, 2015-@COPYRIGHT_YEAR@ The GCXX Core developers</string>
+  <string>@CLIENT_VERSION_MAJOR@.@CLIENT_VERSION_MINOR@.@CLIENT_VERSION_REVISION@, Copyright © 2009-@COPYRIGHT_YEAR@ The Bitcoin Core developers, 2014-@COPYRIGHT_YEAR@ The Dash Core developers, 2015-@COPYRIGHT_YEAR@ The GCX Core developers</string>
 
   <key>CFBundleShortVersionString</key>
   <string>@CLIENT_VERSION_MAJOR@.@CLIENT_VERSION_MINOR@.@CLIENT_VERSION_REVISION@</string>
@@ -29,10 +29,10 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>GCXX-Qt</string>
+  <string>GCX-Qt</string>
 
   <key>CFBundleIdentifier</key>
-  <string>io.gcx.GCXX-Qt</string>
+  <string>io.gcx.GCX-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -40,7 +40,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>io.gcx.GCXXPayment</string>
+      <string>io.gcx.GCXPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>gcx</string>
@@ -54,7 +54,7 @@
       <key>UTTypeIdentifier</key>
       <string>io.gcx.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>GCXX payment request</string>
+      <string>GCX payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>

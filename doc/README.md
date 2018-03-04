@@ -1,13 +1,13 @@
-GCXX Core
+GCX Core
 =====================
 
 Setup
 ---------------------
-[GCXX Core](http://gcx.org/wallet) is the original GCXX client and it builds the backbone of the network. However, it downloads and stores the entire history of GCXX transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[GCX Core](http://gcx.org/wallet) is the original GCX client and it builds the backbone of the network. However, it downloads and stores the entire history of GCX transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run GCXX on your native platform.
+The following are some helpful notes on how to run GCX on your native platform.
 
 ### Unix
 
@@ -22,18 +22,18 @@ Unpack the files into a directory, and then run gcx-qt.exe.
 
 ### OSX
 
-Drag GCXX-Qt to your applications folder, and then run GCXX-Qt.
+Drag GCX-Qt to your applications folder, and then run GCX-Qt.
 
 ### Need Help?
 
-* See the documentation at the [GCXX Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
+* See the documentation at the [GCX Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [GCXX Forum](http://forum.gcx.org/).
-* Join one of our Slack groups [GCXX Slack Groups](https://gcx.org/slack-logins/).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [GCX Forum](http://forum.gcx.org/).
+* Join one of our Slack groups [GCX Slack Groups](https://gcx.org/slack-logins/).
 
 Building
 ---------------------
-The following are developer notes on how to build GCXX on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build GCX on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -41,7 +41,7 @@ The following are developer notes on how to build GCXX on your native platform. 
 
 Development
 ---------------------
-The GCXX repo's [root README](https://github.com/shamimiceewu025/GCXX/blob/master/README.md) contains relevant information on the development process and automated testing.
+The GCX repo's [root README](https://github.com/shamimiceewu025/GCX/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -55,8 +55,8 @@ The GCXX repo's [root README](https://github.com/shamimiceewu025/GCXX/blob/maste
 
 ### Resources
 
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [GCXX](http://forum.gcx.org/) forum.
-* Join the [GCXX-Dev](https://gcx-dev.slack.com/) Slack group ([Sign-Up](https://gcx-dev.herokuapp.com/)).
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [GCX](http://forum.gcx.org/) forum.
+* Join the [GCX-Dev](https://gcx-dev.slack.com/) Slack group ([Sign-Up](https://gcx-dev.herokuapp.com/)).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

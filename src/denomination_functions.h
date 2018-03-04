@@ -3,10 +3,10 @@
  *
  * @brief      Denomination functions for the Zerocoin library.
  *
- * @copyright  Copyright 2017 GCXX Developers
+ * @copyright  Copyright 2017 GCX Developers
  * @license    This project is released under the MIT license.
  **/
-// Copyright (c) 2015-2017 The GCXX developers
+// Copyright (c) 2015-2017 The GCX developers
 
 #include "reverse_iterate.h"
 #include "util.h"
