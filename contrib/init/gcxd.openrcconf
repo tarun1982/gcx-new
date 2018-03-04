@@ -1,0 +1,26 @@
+# /etc/conf.d/gcxd: config file for /etc/init.d/gcxd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/gcx/gcx.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/gcxd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/gcxd.pid"
+
+# Where to write gcxd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/gcxd"
+
+# User and group to own gcxd process
+#BITCOIND_USER="gcx"
+#BITCOIND_GROUP="gcx"
+
+# Path to gcxd executable
+#BITCOIND_BIN="/usr/bin/gcxd"
+
+# Nice value to run gcxd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
