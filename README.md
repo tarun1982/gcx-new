@@ -21,7 +21,7 @@ GCX is a cutting edge cryptocurrency, with many features not available in most o
 <tr><td>Premine</td><td>75,250,000 GCX*</td></tr>
 </table>
 
-Block 6340[!6340](https://explorer.gcxex.com/tx/7b3cafe39252cbc9c8e405916b8999801562c0ad0db470fa2ee350735b53d838) burn 75M premine.
+Block [6340](https://explorer.gcxex.com/tx/7b3cafe39252cbc9c8e405916b8999801562c0ad0db470fa2ee350735b53d838) burn 75M premine.
 
 ### Reward Distribution
 
